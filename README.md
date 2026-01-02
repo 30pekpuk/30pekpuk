@@ -54,6 +54,8 @@ A simple animation that matches the idea of being “only an egg”:
 
 ![I am only an egg](https://github.com/user-attachments/assets/b985a13f-c8c3-488c-a51e-2410ce9512b4)
 
+![Uploading starscream_full_hatching.gif…]()
+
 ---
 
 ## Disclaimer
